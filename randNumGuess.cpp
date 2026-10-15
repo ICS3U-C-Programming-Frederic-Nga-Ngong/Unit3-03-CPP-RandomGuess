@@ -1,8 +1,8 @@
 // Copyright (c) Year Your Name All rights reserved.
 // .
-// Created by: Your Name
-// Date: Month Day, Year
-// Write what this program does.
+// Created by: Fred
+// Date: Feb 18 2008
+// Checks if a number is the correct guess
 
 #include <cstdlib>
 #include <iostream>
