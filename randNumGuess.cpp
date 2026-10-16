@@ -23,6 +23,8 @@ int main() {
 
     std::cout << "Enter a number\n";
     std::cin >> number;
+
+    // Checks if the number is the correct guess
     if (number == someRandomNumber) {
         std::cout << "you entered the correct number";
     } else {
